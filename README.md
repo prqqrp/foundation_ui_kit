@@ -1,4 +1,4 @@
-# Foundatin UI Kit
+# Foundation UI Kit
 
 Foundation is a toolbox for Sketch that helps designers quickly compose robust user interfaces using flexible components and interchangeable libraries.
 
